@@ -10,3 +10,9 @@ https://morgenbladet.no/rss
 http://resett.no/feed
 https://www.document.no/feed
 https://www.vl.no/rss
+https://services.dn.no/api/feed/rss/
+https://www.regjeringen.no/nb/rss/Rss/2581966/
+https://www.fvn.no/rss/
+https://www.universitas.no/rss/
+https://dusken.no/feed
+https://www.aftenposten.no/rss
