@@ -1,0 +1,12 @@
+https://www.vg.no/rss/feed/forsiden/
+https://www.nrk.no/toppsaker.rss
+https://www.tv2.no/rest/cms-feeds-dw-rest/v2/cms/article/
+http://rss.nettavisen.no/
+https://www.klassekampen.no/section/rssfeed&template=rss&mime=xml
+https://www.dagsavisen.no/rss
+https://www.bt.no/rss
+https://www.adressa.no/?service=rssfeed
+https://morgenbladet.no/rss
+http://resett.no/feed
+https://www.document.no/feed
+https://www.vl.no/rss
